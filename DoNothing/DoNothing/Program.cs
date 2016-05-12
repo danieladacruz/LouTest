@@ -10,6 +10,7 @@ namespace DoNothing
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("ahaha");
         }
     }
 }
